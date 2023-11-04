@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_foreground_service/flutter_foreground_service.dart';
 import 'package:audioplayers/audioplayers.dart';
 
+//! Binome: BENKHELIFA Abdelghafour & SAOUD Rania
+
 void main() {
   runApp(const MyApp());
 }
